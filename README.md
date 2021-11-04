@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glynison.
-- 👀 I’m interested in programming, but I'm not liking how the university to teach Java.
-- 🌱 I’m currently learning Web Services.
+- 👀 I’m interested in programming, but I'm not liking how the university to teach Java. So I'm studing on Youtube, Communities, Tutorials, etc.
+- 🌱 I’m currently learning Web Services and API Rest/Restfull
 - 💞️ I’m looking to collaborate any knowledge.
 - 📫 glynison@gmail.com
 
