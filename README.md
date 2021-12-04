@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @glynison.
-- 👀 I’m interested in programming, but I'm not liking how the university to teach Java. So I'm studing on Youtube, Communities, Tutorials, etc.
-- 🌱 I’m currently learning Web Services and API Rest/Restfull
-- 💞️ I’m looking to collaborate any knowledge.
+- 👋 Hi, I’m @glynison and I'm learning to programming now. Studing Analysis and Systems Development at Senac College
 - 📫 glynison@gmail.com
 
 <!---
