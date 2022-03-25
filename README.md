@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glynison and I'm learning to programming now. Studing Analysis and Systems Development at Senac College
+- 👋 Hi, I’m @glynison.
 - 📫 glynison@gmail.com
 
 <!---
